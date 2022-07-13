@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@400;700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,400;0,500;1,400&display=swap');
 
@@ -42,49 +41,4 @@ body {
     background-color: black;
 
 
-=======
-@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@400;700&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,400;0,500;1,400&display=swap');
-
-h1, a, li, h2, p {
-    color: white;
-    text-decoration: none;
-}
-
-h1, h2 {
-    font-family: 'Roboto Condensed', sans-serif;
-}
-
-a, li {
-    font-family: 'Roboto Mono', monospace;
-}
-
-.goback {
-    font-size: smaller;
-    color: black;
-    background-color: white;
-}
-
-.goback:hover {
-    font-size: large;
-}
-
-a, li:hover {
-    font-style: italic;
-    font-size: larger;
-    font-weight: bold;
-}
-
-hr {
-    border-top: 5px dashed gray;
-    border-bottom: none;
-    border-left: none;
-    border-right: none;
-}
-
-body {
-    background-color: black;
-
-
->>>>>>> e0211b9ec5ee7da492fb71d177722a2faf7c1ac2
 }
